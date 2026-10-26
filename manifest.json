@@ -1,0 +1,9 @@
+{
+  "id": "note-extractor",
+  "name": "Note Extractor",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Turn selected text into a new linked note, with a backlink to the source note.",
+  "author": "You",
+  "isDesktopOnly": false
+}
